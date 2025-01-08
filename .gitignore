@@ -16,5 +16,5 @@
 node_modules
 .yarn
 .env
-
+turbine3-wallet.json
 dev-wallet.json

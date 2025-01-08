@@ -11,6 +11,7 @@
     "wallet-converter": "ts-node ./wallet-converter.ts"
   },
   "dependencies": {
+    "@coral-xyz/anchor": "^0.30.1",
     "@solana/web3.js": "^1.98.0",
     "@types/node": "^22.10.5",
     "@types/prompt-sync": "^4.2.3",
